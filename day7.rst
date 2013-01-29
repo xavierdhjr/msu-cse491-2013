@@ -178,9 +178,9 @@ branches:
 
    https://github.com/ctb/cse491-drinkz.git, amounts
 
-   https://github.com/ctb/cse491-drinkz.git, output_types
+   https://github.com/picken19/cse491-drinkz.git, output_types
 
-   https://github.com/ctb/cse491-drinkz.git, script
+   https://github.com/picken19/cse491-drinkz.git, script
 
 Your mission, should you choose to accept it, is:
 
