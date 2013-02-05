@@ -1,6 +1,8 @@
 Stories
 =======
 
+:doc:`use-cases`
+
 These documents are all written in reStructuredText; see `a quickstart
 primer
 <http://docutils.sourceforge.net/docs/user/rst/quickstart.html>`__.
