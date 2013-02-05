@@ -31,6 +31,8 @@ Class resources and homework:
 .. toctree::
    :maxdepth: 2
 
+   stories
+   day9
    hw2
    day8
    day7
