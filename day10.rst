@@ -15,6 +15,8 @@ the questions on `form 1 <https://docs.google.com/forms/d/13QUhzqaKhOnlqm-enBu5c
 We will go over the answers in class at 3:35, and I will post them
 here after class.
 
+**Update**: `here are the answers <http://nbviewer.ipython.org/urls/raw.github.com/ged-lab/msu-cse491-2013/master/day10-solutions.ipynb>`__.
+
 Once you're done, go consider :doc:`hw3`.
 
 Minute Cards
