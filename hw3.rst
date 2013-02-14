@@ -103,7 +103,7 @@ see :doc:`day11` for collaboration instructions.
 4. Write an HTML output script named 'make-html.py' in the top-level
    directory (above 'drinkz' and 'bin').
 
-   This script should create a directory 'drinkz', and four files
+   This script should create a directory 'html', and four files
    within it: 'index.html', 'recipes.html', 'inventory.html', and
    'liquor_types.html'.  They should be created by the script *from
    the information in your database* using the db.py functions!
