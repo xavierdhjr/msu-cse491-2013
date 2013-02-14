@@ -29,7 +29,7 @@ class.  We expect to see three different kinds of work behavior --
    projects, and then merge afterwards.  As long as the authors are
    noted properly on the commits (you should see them with 'git log',
    in other words) I encourage this mode of work.  Please, however, do
-   the merges yourself.
+   the merges by yourself.
 
 Work on the homework
 ~~~~~~~~~~~~~~~~~~~~

@@ -23,6 +23,8 @@ start to work on it.**
 
        http://msu-web-dev.readthedocs.org/en/latest/day10.html
 
+   (15/100 points)
+
 2. I've provided a bunch of tests for cse491-drinkz on the branch
    'hw3-tests' on my github repository,
 
@@ -47,7 +49,86 @@ start to work on it.**
        script, and that it takes two parameters: a list of bottle types,
        and a list of bottle amounts.
 
-N. Finish up the HW, and tag it as 'hw3' by doing 
+   (15/100 points)
+
+3. Implement the first part of recipes, as in :doc:`story-recipes`.
+
+   a. Make a new file 'recipes.py' that can be imported as 'drinkz.recipes',
+      and that defines a class 'Recipe'.
+
+      The constructor for Recipe should take a name (a string) and a list of
+      ingredient 2-tuples, (liquor type, amount).  For example, ::
+
+         Recipe('vodka martini', [('vodka', '6 oz'), ('vermouth', '1 oz')])
+
+      should create a recipe object for, well, you know!
+
+   b. Define three new functions in db.py, 'add_recipe(r)',
+      'get_recipe(name)', and 'get_all_recipes()'.  Decide if you
+      should use a list, a dictionary, or a set to store 'em;
+      implement it that way; and justify your decision in
+      correctly-spelled and mostly grammatical English in the
+      docstring (the """information""" at the top of the file) in
+      db.py.
+
+      Hint: don't use a list, Michelle!
+
+   c. Define a method on the Recipe class, 'r.need_ingredients()', that
+      returns a list of what is *missing* in order to make this recipe.
+      The list of what is missing should be a list of 2-tuples,
+      [('vodka', amount_in_ml), ...]; if it's empty, that means that
+      you have everything you need.
+
+      See the tests in 'drinkz/test_recipes.py' on branch
+      'hw3-recipe-tests' for a few useful details.
+
+   Please be sure to merge my branch 'hw3-recipe-tests' and check that
+   *all* of your tests pass.
+
+   Strong suggestion -- make a new function, say, 'convert_to_ml',
+   that takes a string amount and converts it to ml; then factor out
+   common functionality in db.py and recipes.py.  Extra kudos for
+   writing tests just for that function, 'cause you know you should.
+
+   Another strong suggestion -- write a new function in db.py, say,
+   'check_inventory_for_type', that checks to see if you have a generic
+   type (like 'blended scotch') and if so returns a list or set of
+   mfg/liquor tuples.  You'll find it handy for (c).
+
+   (50/100 points)
+
+4. Write an HTML output script that creates four files, 'index.html',
+   'recipes.html', 'inventory.html', and 'liquor_types.html'.  They
+   should be created by the script from the information in your database!
+
+   The index file should link to the other three files.
+
+   The liquor_types file should contain a list, in whatever form you
+   want (ul, ol, table, etc.), of all of the liquor types in your
+   database.
+
+   The inventory file should contain a list of all of the liquor
+   *amounts* in your database.
+
+   The recipes file should contain a list of all of the recipes by
+   name, with an entry next to each recipe that indicates whether or
+   not you have all of the ingredients for that recipe (just a "yes"
+   or a "no" (or a "heck yeah", Wes) is fine).
+
+   Each of the files should link to the other three files with an a
+   href tag, i.e. a clickable link.
+
+   Be sure to populate your database with at least two examples of
+   recipes, liquor types, and liquor inventory, and make sure that
+   your output .  Check out test_recipes for inspiration -- you can
+   just copy the data in their for your examples.
+
+   Finally, make the output HTML files available in a directory on the
+   CSE cluster under your account, as in :doc:`day12`.
+
+   (20/100 points)
+
+5. Finish up the HW, and tag it as 'hw3' by doing ::
 
       git tag hw3
       git push origin tag:tag
