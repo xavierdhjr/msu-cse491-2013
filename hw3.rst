@@ -6,6 +6,9 @@ Due Feb 21st at 11:59pm.
 **This homework assignment is not yet complete, but you can go ahead and
 start to work on it.**
 
+See :doc:`day10` for HW 3.1, and :doc:`day12` for HW 3.3 and 3.4.  Also
+see :doc:`day11` for collaboration instructions.
+
 ---
 
 1. In your latest cse491-drinkz, reimplement the data structures to be more
@@ -26,7 +29,7 @@ start to work on it.**
    (15/100 points)
 
 2. I've provided a bunch of tests for cse491-drinkz on the branch
-   'hw3-tests' on my github repository,
+   'hw3-tests' on the ctb github repository,
 
        https://github.com/ctb/cse491-drinkz
 
@@ -82,7 +85,7 @@ start to work on it.**
       See the tests in 'drinkz/test_recipes.py' on branch
       'hw3-recipe-tests' for a few useful details.
 
-   Please be sure to merge my branch 'hw3-recipe-tests' and check that
+   Please be sure to merge ctb branch 'hw3-recipe-tests' and check that
    *all* of your tests pass.
 
    Strong suggestion -- make a new function, say, 'convert_to_ml',
@@ -97,9 +100,13 @@ start to work on it.**
 
    (50/100 points)
 
-4. Write an HTML output script that creates four files, 'index.html',
-   'recipes.html', 'inventory.html', and 'liquor_types.html'.  They
-   should be created by the script from the information in your database!
+4. Write an HTML output script named 'make-html.py' in the top-level
+   directory (above 'drinkz' and 'bin').
+
+   This script should create a directory 'drinkz', and four files
+   within it: 'index.html', 'recipes.html', 'inventory.html', and
+   'liquor_types.html'.  They should be created by the script *from
+   the information in your database* using the db.py functions!
 
    The index file should link to the other three files.
 
@@ -133,6 +140,6 @@ start to work on it.**
       git tag hw3
       git push origin tag:tag
 
-   Then fill out this form: @@.
+   Then fill out this form, which does not yet exist.
 
    (As usual, make sure all of your tests pass.)

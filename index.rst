@@ -32,6 +32,7 @@ Class resources and homework:
    :maxdepth: 2
 
    stories
+   day12
    day11
    day10
    hw3
