@@ -1,10 +1,7 @@
 Homework #3
 ===========
 
-Due Feb 21st at 11:59pm.
-
-**This homework assignment is not yet complete, but you can go ahead and
-start to work on it.**
+Due Feb 20th at 11:59pm.
 
 See :doc:`day10` for HW 3.1, and :doc:`day12` for HW 3.3 and 3.4.  Also
 see :doc:`day11` for collaboration instructions.
