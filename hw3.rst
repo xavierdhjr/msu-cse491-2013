@@ -140,6 +140,6 @@ see :doc:`day11` for collaboration instructions.
       git tag hw3
       git push origin tag:tag
 
-   Then fill out this form, which does not yet exist.
+   Then fill out `this form <https://docs.google.com/forms/d/15eXnX8J3pQAUZcfrioC6fSNrCz-9ioyWRkUhfOFWog0/viewform>`__.
 
    (As usual, make sure all of your tests pass.)
