@@ -14,11 +14,11 @@ Rough schedule for today, summary:
 Classes and objects in Python
 -----------------------------
 
-Thus far in class, we have laid a foundation for building a web app::
+Thus far in class, we have laid a foundation for building a web app
 
 .. image:: files/day13_1.png
 
-Paths from here are::
+Paths from here are
 1. Outputting strings or serving files
 2. Converting the data structures to a SQL database
 3. Using web forms to get data or query the database
@@ -27,7 +27,7 @@ Paths from here are::
 
 .. image:: files/day13_2.png
 
-As we add these functionalities to the drinkz framework, we will see a web app emerge::
+As we add these functionalities to the drinkz framework, we will see a web app emerge:
 
 .. image:: files/day13_3.png
 
