@@ -36,7 +36,16 @@ Pairs
 ~~~~~~~~~~~~
 Today's in-class activities will have assigned groups:
 
-.. table::        Groups
+.. table:: Truth table for "not"
+
+   =====  =====
+     A    not A
+   =====  =====
+   False  True
+   True   False
+   =====  =====
+
+.. table:: Groups
 
 =========  =========
 -------------------- 
