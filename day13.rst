@@ -36,30 +36,30 @@ Pairs
 ~~~~~~~~~~~~
 Today's in-class activities will have assigned groups:
 
-.. csv-table:: 
-    :header: "",""
-    :widths: 15, 15
+        .. csv-table:: 
+            :header: "Pairs"
+            :widths: 15, 15
 
-    Eric M, Michael M
-    Phil G, Marco B
-    Mike M, Mbozu L
-    Michelle T, Anthony C
-    Jacob W, Alex L
-    Jacob R, Adam P
-    Jon B, Ryan C
-    Ryan T, Adam K
-    Michelle V, Connor G
-    Nikhil A, Wes W
-    Jesus R, Austin H
-    Chris E, Eric Z
-    Marshal N, Anthony B
-    Jieping T, David J
-    James C, David W
-    Matt S, Chris E
-    Hassan A, Madalyn P
-    Yevgeny K, Aaron V
-    Garrett S, Connor G
-    Daniel S
+            Eric M, Michael M
+            Phil G, Marco B
+            Mike M, Mbozu L
+            Michelle T, Anthony C
+            Jacob W, Alex L
+            Jacob R, Adam P
+            Jon B, Ryan C
+            Ryan T, Adam K
+            Michelle V, Connor G
+            Nikhil A, Wes W
+            Jesus R, Austin H
+            Chris E, Eric Z
+            Marshal N, Anthony B
+            Jieping T, David J
+            James C, David W
+            Matt S, Chris E
+            Hassan A, Madalyn P
+            Yevgeny K, Aaron V
+            Garrett S, Connor G
+            Daniel S
 
 Progress
 ~~~~~~~~~~~~
