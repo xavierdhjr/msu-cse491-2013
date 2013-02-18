@@ -44,10 +44,20 @@ Today's in-class activities will have assigned groups:
    False  True
    True   False
    =====  =====
+   
+   .. csv-table:: Frozen Delights!
+   :header: "Treat", "Quantity", "Description"
+   :widths: 15, 10, 30
+
+   "Albatross", 2.99, "On a stick!"
+   "Crunchy Frog", 1.49, "If we took the bones out, it wouldn't be
+   crunchy, now would it?"
+   "Gannet Ripple", 1.99, "On a stick!"
 
 .. table:: Groups
 
 =========  ========= 
+---------  ---------
 Eric M     Michael M
 Phil G     Marco B
 Mike M     Mbozu L
@@ -72,7 +82,7 @@ Daniel S
 
 Progress
 ~~~~~~~~~~~~
-Please complete `this survey`__ to give us an idea of your understanding of each topic covered thus far in class.
+Please complete ``_this survey_ to give us an idea of your understanding of each topic covered thus far in class.
 
 WSGI
 ~~~~~~~~~~~~
