@@ -11,6 +11,8 @@ Rough schedule for today, summary:
 
 
 -----------------------------
+Web App Foundation
+~~~~~~~~~~~~
 
 Thus far in class, we have laid a foundation for building a web app. We start from text files, turn it into data, collect the data into a database (well, Python data structures currently), allow querying of the database, return query results, and output everything as html files:
 
@@ -32,6 +34,42 @@ As we add these functionalities to the drinkz framework, we will see a web app e
     .. image:: files/day13_3.png
         :scale: 75 %
         
+Pairs
+~~~~~~~~~~~~
+In order to mix up the conversation a bit, pairs will be assigned for today's activities:
+
+=========  =========
+        Groups
+-------------------- 
+Eric M     Michael M
+Phil G     Marco B
+Mike M     Mbozu L
+Michelle T Anthony C
+Jacob W    Alex L
+Jacob R    Adam P
+Jon B      Ryan C
+Ryan T     Adam K
+Michelle V Connor G
+Nikhil A   Wes W
+Jesus R    Austin H
+Chris E    Eric Z
+Marshal N  Anthony B
+Jieping T  David J
+James C    David W
+Matt S     Chris E
+Hassan A   Madalyn P
+Yevgeny K  Aaron V
+Garrett S  Connor G
+Daniel S
+
+
+Progress
+~~~~~~~~~~~~
+Please complete `this survey`__ to give us an idea of your understanding of each topic covered thus far in class.
+
+WSGI
+~~~~~~~~~~~~
+Introducing WSGI...
 
 Minute Cards
 ~~~~~~~~~~~~
