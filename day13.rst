@@ -36,6 +36,7 @@ Pairs
 ~~~~~~~~~~~~
 Today's in-class activities will have assigned groups:
 
+.. table::
 =========  =========
         Groups
 -------------------- 
