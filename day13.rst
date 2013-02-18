@@ -60,6 +60,10 @@ Today's in-class activities will have assigned groups:
             18, Yevgeny K, Aaron V
             19, Garrett S, Connor G
             20, Daniel S
+            
+Groups will meet at the following tables:
+    .. image:: files/day13_4.png
+        :scale: 75 %
 
 Progress
 ~~~~~~~~~~~~
