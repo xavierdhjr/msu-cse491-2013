@@ -36,15 +36,6 @@ Pairs
 ~~~~~~~~~~~~
 Today's in-class activities will have assigned groups:
 
-.. table:: Truth table for "not"
-
-   =====  =====
-     A    not A
-   =====  =====
-   False  True
-   True   False
-   =====  =====
-   
 .. csv-table:: 
     :header: "",""
     :widths: 15, 15
