@@ -38,7 +38,7 @@ Today's in-class activities will have assigned groups:
 
         .. csv-table:: 
             :header: "Group #"
-            :widths: 15, 15
+            :widths: 10, 15, 15
 
             1, Eric M, Michael M
             2, Phil G, Marco B
