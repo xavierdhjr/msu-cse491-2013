@@ -47,8 +47,7 @@ Today's in-class activities will have assigned groups:
 
 .. table:: Groups
 
-=========  =========
--------------------- 
+=========  ========= 
 Eric M     Michael M
 Phil G     Marco B
 Mike M     Mbozu L
@@ -69,7 +68,7 @@ Hassan A   Madalyn P
 Yevgeny K  Aaron V
 Garrett S  Connor G
 Daniel S
-
+=========  =========
 
 Progress
 ~~~~~~~~~~~~
