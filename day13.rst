@@ -37,7 +37,7 @@ Pairs
 Today's in-class activities will have assigned groups:
 
         .. csv-table:: 
-            :header: "Pairs"
+            :header: "   Pairs   "
             :widths: 15, 15
 
             Eric M, Michael M
