@@ -36,9 +36,9 @@ Pairs
 ~~~~~~~~~~~~
 Today's in-class activities will have assigned groups:
 
-.. table::
+.. table::        Groups
+
 =========  =========
-        Groups
 -------------------- 
 Eric M     Michael M
 Phil G     Marco B
