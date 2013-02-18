@@ -16,7 +16,7 @@ Classes and objects in Python
 
 Thus far in class, we have laid a foundation for building a web app::
 
-image:: files/day13_1.png
+.. image:: files/day13_1.png
 
 Paths from here are::
 1. Outputting strings or serving files
@@ -25,11 +25,11 @@ Paths from here are::
 4. Including some form of security/authentication
 5. Incorporating templating
 
-image:: files/day13_2.png
+.. image:: files/day13_2.png
 
 As we add these functionalities to the drinkz framework, we will see a web app emerge::
 
-image:: files/day13_3.png
+.. image:: files/day13_3.png
 
 Refactoring
 -----------
