@@ -11,6 +11,7 @@ Rough schedule for today, summary:
 
 
 -----------------------------
+
 Web App Foundation
 ~~~~~~~~~~~~
 
@@ -36,7 +37,7 @@ As we add these functionalities to the drinkz framework, we will see a web app e
         
 Pairs
 ~~~~~~~~~~~~
-In order to mix up the conversation a bit, pairs will be assigned for today's activities:
+Today's in-class activities will have assigned groups:
 
 =========  =========
         Groups
