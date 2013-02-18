@@ -19,12 +19,12 @@ Thus far in class, we have laid a foundation for building a web app
     .. image:: files/day13_1.png
         :scale: 75 %
 
-Paths from here are
-1. Outputting strings or serving files
-2. Converting the data structures to a SQL database
-3. Using web forms to get data or query the database
-4. Including some form of security/authentication
-5. Incorporating templating
+Paths from here are:
+ * Outputting strings or serving files
+ * Converting the data structures to a SQL database
+ * Using web forms to get data or query the database
+ * Including some form of security/authentication
+ * Incorporating templating
 
     .. image:: files/day13_2.png
         :scale: 75 %
