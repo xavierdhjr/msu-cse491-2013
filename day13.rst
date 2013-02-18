@@ -62,8 +62,8 @@ Today's in-class activities will have assigned groups:
             20, Daniel S
             
 Groups will meet at the following tables:
+
     .. image:: files/day13_4.png
-        :scale: 75 %
 
 Progress
 ~~~~~~~~~~~~
