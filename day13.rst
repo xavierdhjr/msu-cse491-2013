@@ -67,7 +67,7 @@ Groups will meet at the following tables:
 
 Progress
 ~~~~~~~~~~~~
-Please complete ``_this survey_ to give us an idea of your understanding of each topic covered thus far in class.
+Please complete ``_this-survey_ to give us an idea of your understanding of each topic covered thus far in class.
 
 WSGI
 ~~~~~~~~~~~~
