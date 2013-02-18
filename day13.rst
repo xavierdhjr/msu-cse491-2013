@@ -9,9 +9,6 @@ Rough schedule for today, summary:
  - Complete in-class exercise about confidence with topics covered in class
  - Complete in-class exercise about WSGI 
 
-
------------------------------
-
 Web App Foundation
 ~~~~~~~~~~~~
 
