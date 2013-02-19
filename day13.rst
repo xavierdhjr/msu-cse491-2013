@@ -148,7 +148,7 @@ Questions:
     it print out, and why?
 
 11. When does __call__ in app.py get executed, and how does the server
-    know when to eecute it?
+    know when to execute it?
 
 Minute Cards
 ------------
