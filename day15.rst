@@ -8,8 +8,9 @@ Day 15 - Tu, Mar 12th, 2013
 Answers to questions from Day 13 and Day 14
 -------------------------------------------
 
+Read through these questions and answers and make sure you grok both.
 If you have specific questions to ask about any of this, stop by the
-table at the end of the room (the one that Wes usually sits at).
+and ask 'em.
 
 Note, we'll have a quizlet next Tuesday on WSGI and Web stuff to gauge
 absorption of the material.  PANIC.
