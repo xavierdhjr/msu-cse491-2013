@@ -135,7 +135,7 @@ see :doc:`day11` for collaboration instructions.
 5. Finish up the HW, and tag it as 'hw3' by doing ::
 
       git tag hw3
-      git push origin tag:tag
+      git push origin hw3:hw3
 
    Then fill out `this form <https://docs.google.com/forms/d/15eXnX8J3pQAUZcfrioC6fSNrCz-9ioyWRkUhfOFWog0/viewform>`__.
 
