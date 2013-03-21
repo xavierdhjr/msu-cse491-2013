@@ -80,6 +80,8 @@ Tuesday so that you can ask questions in class or at office hours.
        save and load recipes as well, and make sure that you can
        "properly" save and load bottle types, inventory, and recipes.
 
+       See bin/save-load for example usage/script creation.
+
    (b) Create a script 'bin/make-test-database' that adds some data
        (recipes, etc.) and then saves the database into a filename
        provided on the command line.
