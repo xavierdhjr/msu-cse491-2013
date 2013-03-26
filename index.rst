@@ -31,6 +31,7 @@ Class resources and homework:
 .. toctree::
    :maxdepth: 2
 
+   day18
    day17
    hw4
    day16

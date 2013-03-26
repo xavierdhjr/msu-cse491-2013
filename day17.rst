@@ -17,6 +17,8 @@ test_app using nose::
 
    %% nosetests
 
+Now go look at 'test_app.py' -- 
+
 1. What is the call order of functions to get down to the 'index'
    function in app.py in test_index()?
 
