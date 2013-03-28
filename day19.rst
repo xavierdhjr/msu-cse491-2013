@@ -33,6 +33,9 @@ longitude) using the Google Maps API, and turn a geolocation back into
 an address (using the Twitter geolocation API, from `v1 of the API
 <https://dev.twitter.com/docs/api/1>`__).
 
+**NOTE** You'll need to use 'python2.6' instead of 'python' or 'python2.7'.
+Sorry!
+
 Your mission --
 
 1. Hook the scripts or code up so that you can take an address and see
