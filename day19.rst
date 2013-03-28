@@ -79,7 +79,7 @@ And install jinja2::
 
 Now, go into cse491-webz/jinja2/, and try running::
 
-   python render.py test1.html
+   python render.py test.html
 
 and ::
 
