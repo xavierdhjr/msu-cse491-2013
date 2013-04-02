@@ -7,6 +7,8 @@ Schedule:
  * Work on questions from :doc:`day19` and today.
  * Minute cards.
 
+Note: no class on Thursday.
+
 TCP/IP Networking
 -----------------
 
