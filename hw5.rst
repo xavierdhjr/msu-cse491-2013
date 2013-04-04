@@ -39,7 +39,7 @@ that you can ask questions in class.
 
    Look through the use cases `here
    <http://msu-web-dev.readthedocs.org/en/latest/day9.html>`__ and
-   `here <http://msu-web-dev.readthedocs.org/en/latest/day9.html>`__
+   `here <http://msu-web-dev.readthedocs.org/en/latest/story-recipes.html>`__
    and choose one to write up.  You will be asked to implement this
    (or another one) for HW #6.
 
