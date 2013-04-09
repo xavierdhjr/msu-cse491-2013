@@ -22,7 +22,7 @@ that you can ask questions in class.
    Specifically,
 
      (a) Implement feature #3
-     (b) Implement bulk loading of recipes
+     (b) Implement bulk loading of recipes from the command line.
      (c) Write HTML forms to enter liquor types, liquor inventories,
          and recipes.
      (d) Write JSON-RPC functions for the same.
