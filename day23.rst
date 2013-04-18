@@ -4,7 +4,7 @@ Day 23 - Th, April 18, 2013
 Schedule:
 
  * Minute cards.
- * 
+ * AJAX and JSON-RPC
  * More database: joins, transactions, multithreading, synch, etc.
 
 Questions/TODO
