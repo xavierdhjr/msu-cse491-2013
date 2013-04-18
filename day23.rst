@@ -60,7 +60,7 @@ TODO:
 SQL Multiple tables, and Transactions
 -------------------------------------
 
-`Tables <http://nbviewer.ipython.org/urls/raw.github.com/ged-lab/msu-cse491-2013/master/sqlite3-.ipynb>`__.
+`Tables <http://nbviewer.ipython.org/urls/raw.github.com/ged-lab/msu-cse491-2013/master/sqlite3-tables.ipynb>`__.
 
 `Transactions <http://nbviewer.ipython.org/urls/raw.github.com/ged-lab/msu-cse491-2013/master/sqlite-transactions.ipynb>`__.
 
