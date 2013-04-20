@@ -5,7 +5,7 @@ Due Wed, May 1st, at midnight.  Office hours on Tuesday Apr 23rd, but
 then I'm out of town on Apr 30th; arrange something with Cait if you
 want help.
 
-0. See point 0 in :doc:hw5, but fill out `this form
+0. See point 0 in :doc:`hw5`, but fill out `this form
    <https://docs.google.com/forms/d/1Cpa6iyEo146y4vUESmqrM2gmMtzqKHwZE9B-A_ieeIw/viewform>`__
    instead.
 
