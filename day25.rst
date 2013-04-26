@@ -52,8 +52,8 @@ Real Python Web developers use things like `Django <https://www.djangoproject.co
 Personally, I have always had a soft spot for `Quixote <http://quixote.ca/>`__,
 which is a nice, simple, extensible Web framework.  To take a look, ::
 
-   source env941/bin/activate.csh
-   curl -O http://quixote.ca/releases/Quixote-2.7.tar.gz
+   source env491/bin/activate.csh
+   wget http://quixote.ca/releases/Quixote-2.7.tar.gz
    pip install Quixote-2.7.tar.gz
    tar xzf Quixote-2.7.tar.gz
 
