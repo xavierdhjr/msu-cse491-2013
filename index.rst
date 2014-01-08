@@ -3,64 +3,30 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to the Web Dev site (2013 version)
-==========================================
+Welcome to the Web Dev class (2014)
+===================================
 
-Lecture/lab: Tu/Th 2:40-4pm, McDonel Hall 2
+Lecture/lab: Tu/Th 3-4:20pm, 55 Union Bldg
 
 Instructor: C. Titus Brown, ctb@msu.edu, BPS 2228(c)
 
-TA: Cait Pickens, picken19@msu.edu
+TA: Leigh Sheneman, leighs@msu.edu, BPS 2228.
 
-Office hours: 6-8pm Tuesdays, or by arrangement; in 2228 BPS.
+Office hours: Wed evenings in Egr.
 
 **Objectives:**
 
-In this course, you will learn how the Web works by writing a Web
-server and some Web applications.  More generally, we will discuss
-concepts in client-server and peer-to-peer architectures and how all
-of this technology works "under the hood" on today's Internet.  We’ll
-also discuss issues and approaches to developing software with an eye
-to maintainability, and learn about the practical separation of
-concerns in Web application stacks, from browser through server.
+In this course, you will learn how the Web works by working on an HTTP server, a backend Web app (including database and HTML generation), and a front-end JavaScript interface. As part of this we will discuss concepts in client-server and peer-to-peer architectures and how all of this technology works “under the hood” on today’s Internet.  We’ll also discuss issues and approaches to developing software with an eye to maintainability, and learn about the practical separation of concerns in Web application stacks, from browser through server. A key part of this course will be the use of git and github. This course will be programming intensive and you should expect to either know Python or be prepared to learn it fairly well on your own.
 
-`Read more in the syllabus <_static/cse491-spring2013-syllabus.pdf>`__
+`Read more in the syllabus <_static/cse491-spring2014-syllabus.pdf>`__
 
 Class resources and homework:
 
 .. toctree::
    :maxdepth: 2
 
-   day25
-   day24
-   hw6
-   day23
-   day22
-   hw5
-   day20
-   day19
-   day18
-   day17
-   hw4
-   day16
-   day15
-   day14
-   day13
-   stories
-   day12
-   day11
-   day10
-   hw3
-   day9
-   hw2
-   day8
-   day7
-   day6
-   day5
+   day2
    hw1
-   day4
-   day3
-   noteSheets  
 
 Indices and tables
 ==================
