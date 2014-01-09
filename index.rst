@@ -25,6 +25,7 @@ Class resources and homework:
 .. toctree::
    :maxdepth: 2
 
+   day3
    day2
    hw1
 
