@@ -16,15 +16,32 @@ Office hours: Wed evenings in Egr.
 
 **Objectives:**
 
-In this course, you will learn how the Web works by working on an HTTP server, a backend Web app (including database and HTML generation), and a front-end JavaScript interface. As part of this we will discuss concepts in client-server and peer-to-peer architectures and how all of this technology works “under the hood” on today’s Internet.  We’ll also discuss issues and approaches to developing software with an eye to maintainability, and learn about the practical separation of concerns in Web application stacks, from browser through server. A key part of this course will be the use of git and github. This course will be programming intensive and you should expect to either know Python or be prepared to learn it fairly well on your own.
+In this course, you will learn how the Web works by working on an HTTP
+server, a backend Web app (including database and HTML generation),
+and a front-end JavaScript interface. As part of this we will discuss
+concepts in client-server and peer-to-peer architectures and how all
+of this technology works “under the hood” on today’s Internet.  We'll
+also discuss issues and approaches to developing software with an eye
+to maintainability, and learn about the practical separation of
+concerns in Web application stacks, from browser through server. A key
+part of this course will be the use of git and github. This course
+will be programming intensive and you should expect to either know
+Python or be prepared to learn it fairly well on your own.
 
 `Read more in the syllabus <_static/cse491-spring2014-syllabus.pdf>`__
+
+Make sure you're `on the mailing list
+<http://lists.idyll.org/listinfo/cse491-spring-2014>`__.
+
+Office hours will be in 3353 Egr at 9pm on Wednesday evenings, unless
+otherwise stated.
 
 Class resources and homework:
 
 .. toctree::
    :maxdepth: 2
 
+   day4
    day3
    day2
    hw1
