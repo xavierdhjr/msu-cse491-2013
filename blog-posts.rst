@@ -1,5 +1,7 @@
 Blog post assignments
 =====================
+Hello world
+
 
 Up to two students may sign up to write a blog post about each class
 day, and each student may sign up for two blog posts total.  Each blog
