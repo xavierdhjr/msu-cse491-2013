@@ -23,4 +23,4 @@ Day 4: Thursday, January 16th, 2014
 
 .. How might you find the deep web?
 
-4. hw 2 handout and discuss.
+4. :doc:`hw2` - review and discuss.

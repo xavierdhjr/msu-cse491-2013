@@ -36,7 +36,14 @@ Make sure you're `on the mailing list
 Office hours will be in 3353 Egr at 9pm on Wednesday evenings, unless
 otherwise stated.
 
-Class resources and homework:
+Class resources:
+
+.. toctree::
+   :maxdepth: 1
+
+   blog-posts
+
+Class pages and HWs, by day:
 
 .. toctree::
    :maxdepth: 2
