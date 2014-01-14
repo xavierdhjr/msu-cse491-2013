@@ -1,6 +1,6 @@
 Blog post assignments
 =====================
-Hello world
+Hello beans
 
 
 Up to two students may sign up to write a blog post about each class
